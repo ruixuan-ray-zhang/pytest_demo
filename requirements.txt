@@ -1,0 +1,7 @@
+attrs==22.2.0
+certifi @ file:///work/ci_py311/certifi_1676822443922/work/certifi
+iniconfig==2.0.0
+packaging==23.0
+pluggy==1.0.0
+pytest==7.2.2
+PyYAML==6.0
